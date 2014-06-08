@@ -1,4 +1,0 @@
-plasmadriver
-============
-
-Pulsed Plasma Driver
